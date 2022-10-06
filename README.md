@@ -1,4 +1,4 @@
-# Mision Tic - SmartMind
+# Mision Tic - :collision: SmartMind :collision:
 Este repositorio es donde trabajaremos colaborativamente el proyecto de la fase IV de mision tic
 el quipo de trabajo esta conformado por:
 * Teresa Escobar 
