@@ -12,3 +12,4 @@ el quipo de trabajo esta conformado por:
 - [X] Instalacion NodeJS 
 - [X] Instalacion npm
 - [X] Instalacion LoopBack
+- [X] Instalacion expressjs
