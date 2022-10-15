@@ -3,6 +3,7 @@ Este repositorio es donde trabajaremos colaborativamente el proyecto de la fase 
 el quipo de trabajo esta conformado por:
 * Teresa Escobar 
 * Sluguer Arana 
+* Kevin Gomez
 ## Las tareas realizadas al momento son 
 - [x] Creacion del repositorio "Control y seguimiento de cambios en el codigo fuente"
 - [X] Instalacion de visual Studio Code  
