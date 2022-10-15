@@ -10,4 +10,5 @@ el quipo de trabajo esta conformado por:
 - [X] Instalacion de visual Studio Code  
 - [x] Instalacion de IDE MongoDB Compass
 - [X] Instalacion NodeJS 
-- [X] Instalacion npm 
+- [X] Instalacion npm
+- [X] Instalacion LoopBack
